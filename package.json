@@ -1,0 +1,28 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizschmitt/github-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizschmitt/github-bot/issues"
+  },
+  "homepage": "https://github.com/luizschmitt/github-bot#readme",
+  "dependencies": {
+    "i": "^0.3.6",
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "npm": "^6.11.3",
+    "random": "^2.1.1",
+    "simple-git": "^1.126.0"
+  }
+}
